@@ -31,6 +31,3 @@ Team Members
 
 Aafrin Shah Anwarshah (RA2411053010195)
 Muzamil Khoja (RA2411053010190)
-[Your Full Name] ([Your Student ID])
-
-[Teammate's Full Name] ([Teammate's Student ID])
