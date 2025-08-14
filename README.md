@@ -1,4 +1,5 @@
 Smart Fall Detection System
+
 This project is a simple software solution for detecting accidental falls using simulated motion sensor data. It was developed for the Tech-a-Thon 4.0 - By ECE Society.
 
 How It Works
