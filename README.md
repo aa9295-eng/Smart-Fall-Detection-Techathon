@@ -30,4 +30,5 @@ python fall_detector.py
 Team Members
 
 Aafrin Shah Anwarshah (RA2411053010195)
+
 Muzamil Khoja (RA2411053010190)
